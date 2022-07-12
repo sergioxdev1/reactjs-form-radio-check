@@ -1,0 +1,21 @@
+body {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+  color: #444444;
+  font-size: 9pt;
+  background-color: #fafafa;
+}
+
+.card-sexbirth {
+  padding: 1rem;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.05), 0 3px 6px rgba(0, 0, 0, 0.15);
+}
+
+.input-radio-sexbirth {
+  position: relative;
+  margin: 1rem;
+}
+
+.input-checkbox-sexbirth {
+  position: relative;
+  margin: 1rem;
+}
